@@ -1,0 +1,6 @@
+{
+  "name": "Spark",
+  "description": "Indian dating and social discovery app with multilingual support, local cultural interests, location-based discovery, real-time chat, and Spark Gold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
